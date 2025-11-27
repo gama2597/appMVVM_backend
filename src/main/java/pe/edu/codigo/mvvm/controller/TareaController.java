@@ -1,4 +1,4 @@
-package pe.edu.codigo.mvvm.web;
+package pe.edu.codigo.mvvm.controller;
 
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
